@@ -1,0 +1,1 @@
+userSELECT * FROM d124557_naukatunnitoo.renting;
